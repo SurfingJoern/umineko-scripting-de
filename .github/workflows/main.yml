@@ -46,8 +46,6 @@ jobs:
           cp misc/pt.cfg ciout
           cp misc/cn.cfg ciout
           cp misc/cht.cfg ciout
-          cd ciout
-          cd ..
           php update-manager/update-manager.php script ciout/en.txt "ciout/en.file" "$LAST_EN" || exit 1
           php update-manager/update-manager.php script ciout/ru.txt "ciout/ru.file" "$LAST_RU" || exit 1
           php update-manager/update-manager.php script ciout/pt.txt "ciout/pt.file" "$LAST_PT" || exit 1
