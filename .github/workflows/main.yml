@@ -51,7 +51,6 @@ jobs:
           zip -qry umineko-pt-scripts_r${BUILD}_dev.zip pt.txt pt.cfg || exit 1
           zip -qry umineko-cn-scripts_r${BUILD}_dev.zip cn.txt cn.cfg || exit 1
           zip -qry umineko-wh-scripts_r${BUILD}_dev.zip wh.txt || exit 1
-          zip -qry umineko-de-scripts_r${BUILD}_dev.zip de.txt || exit 1
           zip -qry umineko-cht-scripts_r${BUILD}_dev.zip cht.txt cht.cfg || exit 1
           cd ..
           php update-manager/update-manager.php script ciout/en.txt "ciout/en.file" "$LAST_EN" || exit 1
