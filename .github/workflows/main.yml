@@ -21,7 +21,7 @@ jobs:
 
       - name: Compile
         run: |
-          BUILD=$(($(git rev-list --count --first-parent HEAD)+4000))
+          BUILD=$(($(git rev-list --count --first-parent HEAD)+5000))
           TODAY=$(date +"%d.%m.%y")
           echo "BUILD=${BUILD}" >> "$GITHUB_ENV"
           echo "TODAY=${TODAY}" >> "$GITHUB_ENV"
