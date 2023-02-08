@@ -1,6 +1,6 @@
 language english
 
-; Game window caption 
+; Game window caption
 
 if %CHIRU_MODE == 0 caption "Umineko When They Cry ~Rondo der Hexe und der Logik~ (" + $CHIRU_MODE + ")"
 if %CHIRU_MODE == 1 caption "Umineko When They Cry Chiru ~Nocturne der Wahrheit und der Illusionen~ (" + $CHIRU_MODE + ")"
@@ -299,7 +299,7 @@ stralias verify_engine,"Vergewissern Sie sich, dass Sie ein aktuelles Spieleskri
 
 stralias verification_title,"Spieldateien verifizierung"
 stralias verification_verifying,"Verifiziere Dateien...{n}Das könnte etwas dauern.{n}"
-stralias verification_legend,"Legend: "
+stralias verification_legend,"Legende: "
 stralias verification_modified,"Datei modifiziert"
 stralias verification_missing,"Datei fehlt"
 stralias verification_good,"Alles Gut!{n}"
