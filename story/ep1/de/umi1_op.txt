@@ -5,7 +5,7 @@
 `In der Ecke dieses Raumes, der viel größer war als das, was die meisten Menschen ein Arbeitszimmer nennen würden, `
 `stand ein teuer aussehendes Bett, ein Mann, der untersucht wurde, und der Arzt, der die Untersuchung durchführte. `
 `Es gab auch jemanden, der wie ein Bediensteter aussah, der die ganze Angelegenheit überwachte. `
-`"Die Flasche ist mein Freund.  `
+`"Die Flasche ist mein Freund. `
 `Sie ist kein geringerer Freund als du, und sie steht mir sogar schon länger zur Seite als du." `
 `Während der Mann, der seine Brust für das Stethoskop entblößte, seine Kleidung neu ordnete, sprach er ohne Umschweife. `
 `"............Kinzo‐{c:86EF9C:san}. `
@@ -13,16 +13,16 @@
 `Wenn du aber weiterhin so starke Spirituosen trinkst, wird die Behandlung sinnlos sein. `
 `...Vertraue meinem Urteilsvermögen. `
 `Verzichte auf das Trinken." `
-`"Ich danke dir, wenn auch nur für das Gefühl `
-`, mein Freund. `
+`"Ich danke dir, wenn auch nur für das Gefühl, `
+`mein Freund. `
 `.........Genji, `
 `noch ein Glas. `
 `Verwässere es ein wenig. `
 `So kann Nanjo sein Gesicht wahren." `
 `"..........Sind Sie ganz sicher?" `
 `Nach einem Blick auf den Herrn, der den Alkohol verlangte, und den Hausarzt, der ihn verbot, `
-`Genji, der alte Butler, nickte schweigend und führte die Anweisungen seines Herrn gewissenhaft aus. `
-`Der Hausarzt, Nanjo, stieß erneut einen tiefen Seufzer aus, als er beobachtete, wie sich der Butler am Schnapsschrank zu schaffen machte...  `
+`ickte Genji der alte Butler schweigend und führte die Anweisungen seines Herrn gewissenhaft aus. `
+`Der Hausarzt Nanjo, stieß erneut einen tiefen Seufzer aus, als er beobachtete, wie sich der Butler am Schnapsschrank zu schaffen machte...  `
 `Ein Geruch erfüllte den Raum. `
 `...Dieser süße, giftige Duft schien das Herz, wenn nicht sogar die Seele zu schmelzen. `
 `Es war der Geruch dieses giftigen grünen Getränks, von dem sich der Mann nicht trennen konnte. `
@@ -62,7 +62,7 @@
 `"......Und was ist ein Testament, Nanjo? `
 `Handschriftliche Anweisungen an die Geier, wie sie meinen Leichnam verschlingen und verstreuen sollen?" `
 `"Nein, ganz und gar nicht. `
-`......Es ist eine Möglichkeit, Ihren Willen für spätere Generationen festzuhalten. `
+`......Es ist eine Möglichkeit, deinen Willen für spätere Generationen festzuhalten. `
 `Es ist weit mehr als nur ein Mittel, um dein Erbe aufzuteilen." `
 `"Hoh. `
 `......Und abgesehen von der Aufteilung des Erbes, worüber sollte ich schreiben?" `
@@ -78,8 +78,8 @@
 `Ich wurde mit nichts geboren. `
 `Ich werde mit nichts sterben! `
 `Es gibt nichts, was ich meinen törichten Kindern hinterlassen möchte!! `
-`Even if the end were to come today, even if it were to come right now! `
-`I would accept that fate of death without a trace of fear!! `
+`Selbst wenn das Ende heute käme, selbst wenn es jetzt käme! `
+`Ich würde dieses Schicksal des Todes ohne eine Spur von Angst akzeptieren!! `
 `"......Kinzo‐san." `
 `Ich habe alles geschaffen. `
 `Mein Glück! `
@@ -111,8 +111,8 @@
 `Deshalb muss alles vollendet werden, bevor ich gehe!! `
 `Darum hat ein Testament für mich keine Bedeutung!! `
 `Und selbst wenn ich die Möglichkeit hätte, so etwas zu schreiben, `
-`......wenn ich eine solche Chance hätte!!" `
-`"...Ich würde es sehen wollen. `
+`......wenn ich eine solche Chance hätte!! `
+`...Ich würde es sehen wollen. `
 `Ich will es noch einmal sehen! `
 `Ich will Beatrices lächelndes Gesicht ein letztes Mal sehen!! `
 `Oh, Beatrice, warum hast du dich mir so lange widersetzt?! `
