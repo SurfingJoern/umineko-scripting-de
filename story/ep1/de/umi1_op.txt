@@ -199,16 +199,16 @@
 `Rudolf war auch nicht so groß, bis er in die Schule kam. `
 `Vielleicht werden Menschen größer, wenn ihr Wachstumsschub zu spät kommt." `
 `"Ne, das ist nichts Besonderes. `
-`A real man needs to be tough on the inside too!" `
-`"Exactly! `
-`Battler-kun here knows how it works! `
-`Real men win or lose based on what they've got on the inside! `
-`Can't ever forget to keep up your trainin' and discipline. `
-`You gotta do that, wait veeery alertly for the perfect moment...and strike! `
-`Now, I never even imagined that I'd become the company president I am today, master of my own domain... `
-`Yep, to think I've come this far after starting out penniless and ruined...!" `
-`This stout, plump, old guy is `
-`George-aniki's dad, Uncle Hideyoshi ({p:0:秀吉}). `
+`Ein echter Mann muss auch im inneren Stark sein!" `
+`"Genau! `
+`Battler-kun weiß wie es geht! `
+`Ob echte Männer gewinnen oder verlieren liegt an dem was Sie im inneren haben! `
+`Du darfst nie vergessen immer weiter zu trainieren und deine Disziplin beizubehalten. `
+`Das musst du tun, seeehr aufmerksam auf den perfekten Moment warten... und dann zuschlagen! `
+`Ich hätte mir nie vorstellen können, dass ich heute mal eine Firma zu besitzen, ich bin der Herr meines eigenes Reiches... `
+`Ja, zu denken ich würde so weit kommen ohne einen einzigen Cent und komplett ruiniert...!" `
+`Dieser wohlbelebte, pummelige, alte Mann ist `
+`George-aniki's Vater, Uncle Hideyoshi ({p:0:秀吉}). `
 `He's the husband of Dad's older sister. `
 `In other words, we're not blood-related. `
 `He's nice to children, sociable all the time, and even quick to give out some spending money to us kids. Simply put, he's an awesome uncle. `
